@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "anime-alchemist",
+    "name": "Anime Alchemist",
     "slug": "anime-alchemist",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/transparent_logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/transparent_logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/transparent_logo.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/transparent-icon.png"
     }
   }
 }
